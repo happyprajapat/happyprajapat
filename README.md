@@ -1,5 +1,5 @@
 # 💫 About Me:
-👨‍💻I am currently working on JavaScript and Machine Learning.<br>💻I am looking to Collaborate in major projects.<br>👑Familiar to HMTL & CSS<br>⚡Enthusiastic
+👨‍💻I am currently working on JavaScript and Machine Learning.<br>💻I am looking to Collaborate in major projects.<br>👑Familiar to HTML & CSS<br>⚡Enthusiastic
 
 
 ## 🌐 Socials:
